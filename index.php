@@ -32,9 +32,9 @@
 		<div class="wrap-contact100 p-l-55 p-l-55 p-r-55 p-t-80 p-b-30">
 			<form action=index.php method=post>
 				<span class="contact100-form-title p-b-37">
-					<h2>
+					<h1>
 					Body Mass Index
-					</h2>
+					</h1>
 				</span>
 
 				<div class="wrap-input100 validate-input" data-validate="Angka is required">
